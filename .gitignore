@@ -1,0 +1,13 @@
+# KiCad temporary files
+*-backups/
+*.kicad_prl
+*.lck
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~

@@ -11371,7 +11371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -11450,7 +11450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 91.44 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -11688,7 +11688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 189.23 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -11770,7 +11770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 240.03 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -12008,7 +12008,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 82.55 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -12167,7 +12167,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 273.05 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -12249,7 +12249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 152.4 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -12331,7 +12331,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 273.05 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -12413,7 +12413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -12573,7 +12573,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "LED_SMD:LED_1210_3225Metric"
 			(at 194.31 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -12666,7 +12666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 313.69 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -12745,7 +12745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 189.23 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -12905,7 +12905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 71.12 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -13208,7 +13208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 378.46 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -13287,7 +13287,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.47 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -13367,7 +13367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector:Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical"
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_2-G-3.5_1x02_P3.50mm_Vertical"
 			(at 278.13 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -13524,7 +13524,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.47 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -13681,7 +13681,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_14-G-3.5_1x14_P3.50mm_Vertical"
 			(at 321.31 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13876,7 +13876,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 158.75 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -14114,7 +14114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 62.23 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14196,7 +14196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 176.53 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -14278,7 +14278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 41.91 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14529,7 +14529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -14686,7 +14686,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.3839 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -14843,7 +14843,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 190.5 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -15003,7 +15003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -15082,7 +15082,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 100.33 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -15239,7 +15239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 190.5 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -15321,7 +15321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 364.49 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -15402,7 +15402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 276.86 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15483,7 +15483,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4115-03-C"
 			(at 209.55 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -15604,7 +15604,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 140.97 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -15686,7 +15686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 91.44 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -15768,7 +15768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 73.66 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -15849,7 +15849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 281.94 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -16005,7 +16005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.47 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -16087,7 +16087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 81.28 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -16169,7 +16169,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "LED_SMD:LED_1210_3225Metric"
 			(at 180.34 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -16259,7 +16259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.47 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -16441,7 +16441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 73.66 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -16695,7 +16695,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_12-G-3.5_1x12_P3.50mm_Vertical"
 			(at 278.13 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16807,7 +16807,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
 			(at 55.88 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -16967,7 +16967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 60.96 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17046,7 +17046,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.47 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -17204,7 +17204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 165.1 38.608 90)
 			(hide yes)
 			(show_name no)
@@ -17283,7 +17283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 184.15 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -17365,7 +17365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 101.6 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17445,7 +17445,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 53.34 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -17552,7 +17552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.47 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -17758,7 +17758,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "LED_SMD:LED_1210_3225Metric"
 			(at 313.69 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -17851,7 +17851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 393.7 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -18011,7 +18011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 337.82 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -18093,7 +18093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 325.12 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -18174,7 +18174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 270.51 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -18331,7 +18331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 181.61 238.125 0)
 			(hide yes)
 			(show_name no)
@@ -18491,7 +18491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 180.34 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -18571,7 +18571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 118.11 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -18653,7 +18653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 281.94 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -18891,7 +18891,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 194.31 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -19048,7 +19048,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.47 224.79 0)
 			(hide yes)
 			(show_name no)
